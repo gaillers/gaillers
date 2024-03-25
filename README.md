@@ -1,7 +1,7 @@
 
 # Hi 👋, My name is Alexey Horodesky
 
-## Front-end Developer and WordPress
+## Front-end and WordPress Developer
 
 ## 💫 About Me:
 <ul>
