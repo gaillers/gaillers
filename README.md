@@ -28,6 +28,8 @@
  ![WPBakery](https://img.shields.io/badge/WPBakery-%231B87C3.svg?style=flat-square&logo=wordpress&logoColor=white) 
  ![Divi](https://img.shields.io/badge/Divi-%23569BAD.svg?style=flat-square&logo=wordpress&logoColor=white)
  ![WooCommerce](https://img.shields.io/badge/WooCommerce-%23774752.svg?style=flat-square&logo=woocommerce&logoColor=white)
+ [![Polylang](https://img.shields.io/badge/Polylang-%23FF5722.svg?style=flat-square)](https://polylang.pro/)
+ [![WPML](https://img.shields.io/badge/WPML-%23646464.svg?style=flat-square&logo=wordpress&logoColor=white)](https://wpml.org/)
  ![SEO optimization](https://img.shields.io/badge/SEO%20optimization-%23117AC9.svg?style=flat-square&logo=wordpress&logoColor=white)
  ![Сustom Post Types](https://img.shields.io/badge/Сustom%20Post%20Types-%230A58C9.svg?style=flat-square&logo=wordpress&logoColor=white) 
  ![ShortCodes](https://img.shields.io/badge/ShortCodes-%232A56C6.svg?style=flat-square&logo=wordpress&logoColor=white)
