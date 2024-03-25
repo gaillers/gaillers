@@ -61,5 +61,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gaillers&theme=algolia&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaillers&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=gaillers&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
