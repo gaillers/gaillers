@@ -1,6 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+# Hi 👋, My name is Alexey Horodesky
+---
+## Front-end Developer and WordPress
+---
+## 💫 About Me:
+🌍 I'm based in Ukraine, Odesa.
+✉️ You can contact me at <a href="mailto:alexgorod2021@gmail.com">alexgorod2021@gmail.com</a>
+🚀 I'm currently working on <a target="_blank" href="https://brightech.it/en/">Brightech</a>
+🤝 I'm open to collaborating on Projects
+
+---
+[![](https://visitcount.itsvg.in/api?id=gaillers&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexey-horodesky-8907ab196/) 
@@ -14,8 +24,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gaillers&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=gaillers&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
