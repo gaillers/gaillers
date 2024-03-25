@@ -1,13 +1,15 @@
 
 # Hi 👋, My name is Alexey Horodesky
----
+
 ## Front-end Developer and WordPress
----
+
 ## 💫 About Me:
-🌍 I'm based in Ukraine, Odesa.
-✉️ You can contact me at <a href="mailto:alexgorod2021@gmail.com">alexgorod2021@gmail.com</a>
-🚀 I'm currently working on <a target="_blank" href="https://brightech.it/en/">Brightech</a>
-🤝 I'm open to collaborating on Projects
+<ul>
+   <li>🌍 I'm based in Ukraine, Odesa.</li>
+   <li>✉️ You can contact me at <a href="mailto:alexgorod2021@gmail.com">alexgorod2021@gmail.com</a></li>
+   <li>🚀 I'm currently working on <a target="_blank" href="https://brightech.it/en/">Brightech</a></li>
+   <li>🤝 I'm open to collaborating on Projects</li>
+</ul>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gaillers&icon=0&color=1)](https://visitcount.itsvg.in)
